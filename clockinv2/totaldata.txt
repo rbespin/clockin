@@ -1,0 +1,5 @@
+cs 121
+spanish 150
+anthropology 189990
+english 9
+math 120
