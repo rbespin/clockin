@@ -1,5 +1,5 @@
-This version of the clock-in program attempts to tackle the program more efficiently
-using HashMaps and a more streamlined GUI setup
+This version of the clock-in program is a complete overhaul that attempts to tackle
+the program more efficiently using HashMaps and a more streamlined GUI setup
 - HashInitialize.java to initialize HashMap and a file for HashClockIn.java to use
 - HashClockIn.java to initialize file that contains clock-in
 information for HashClockOut.java to use.
